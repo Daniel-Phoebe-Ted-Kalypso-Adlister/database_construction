@@ -1,3 +1,5 @@
+USE adlisters;
+
 INSERT INTO users(email, password) VALUES
 ('ted@anemail.com', 123456),
 ('phoebe@anemail.com', 789101),
